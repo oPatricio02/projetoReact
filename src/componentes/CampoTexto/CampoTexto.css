@@ -1,0 +1,23 @@
+.campo-texto
+{
+    margin: 24px 0; /*Margem de 24px pra cima e pra baixo e 0 para os lados*/
+}
+
+.campo-texto label
+{
+    display: block; /*Display bloco, vai virar um bloco e não vai ficar na frente do campo*/
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo-texto input
+{
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0,0,0,0.0) ;
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+
+}
